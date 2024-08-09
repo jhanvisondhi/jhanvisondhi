@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhanvisondhi
-- 👀 I’m interested in Devops
+- 👀 I’m interested in FullStack Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend Projects 
 - 📫 How to reach me @sondhijhanvi68@gmail.com
