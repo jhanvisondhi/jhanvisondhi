@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhanvisondhi
 - 👀 I’m interested in FullStack Developer
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Frontend Projects 
+- 💞️ I’m looking to collaborate on Frontend and backend projects
 - 📫 How to reach me @sondhijhanvi68@gmail.com
 
 <!---
